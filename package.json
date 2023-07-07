@@ -15,5 +15,19 @@
     "prettier": "^2.2.1",
     "snowpack": "^3.3.7",
     "typescript": "^4.2.4"
-  }
+  },
+  "name": "typescript-todo-list-main",
+  "description": "> ✨ Bootstrapped with Create Snowpack App (CSA).",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erasmous/typescript-todo-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erasmous/typescript-todo-app/issues"
+  },
+  "homepage": "https://github.com/erasmous/typescript-todo-app#readme"
 }
